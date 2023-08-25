@@ -1,4 +1,26 @@
 body{
     background-color: cadetblue;
     font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+}
+
+h1,h2,h3,h4{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+}
+
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+
+main{
+    display: block;
+}
+
+button,input {
+    font-family: inherit;
+    font-size: 100% ;
+    margin: 0;
+    overflow: visible;
 }
